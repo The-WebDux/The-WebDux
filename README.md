@@ -1,4 +1,4 @@
-![alt text](https://ak.picdn.net/shutterstock/videos/1019579425/thumb/11.jpg)
+![](https://ak.picdn.net/shutterstock/videos/1019579425/thumb/11.jpg)
 
 # 👋 Hi, I’m WebDux (vakh0)
 - 📫 Contact me on linkedin: https://www.linkedin.com/in/vakhtangkvikvinia/
