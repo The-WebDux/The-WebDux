@@ -2,4 +2,4 @@
 
 # 👋 Hi, I’m - WebDux -
 - 📫 Contact me on linkedin: https://www.linkedin.com/in/vakhtangkvikvinia/
-- ✉️ Or mail me: vakhtangkvikvinia@hackers.ge
+- ✉️ Or email me: vakhtangkvikvinia@hackers.ge
